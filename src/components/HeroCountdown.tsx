@@ -205,10 +205,10 @@ export const HeroCountdown: React.FC<HeroCountdownProps> = ({
             <div className="py-6 px-4 bg-[#4A3B33] dark:bg-[#B5838D] rounded-2xl text-white shadow-sm text-center animate-pulse">
               <Cake className="w-12 h-12 mx-auto mb-2 text-[#FFD8CC]" />
               <h3 className="font-serif font-light italic text-2xl sm:text-3xl mb-1">
-                HAPPY 25TH BIRTHDAY {config.name.toUpperCase()}! 🎂💖
+                HAPPY BIRTHDAY, MY LOVE! 🎂💖
               </h3>
               <p className="text-sm opacity-90 font-light">
-                Today is all about you! Enjoy every magical second of your special day!
+                Today is all about you! Enjoy your special day!
               </p>
             </div>
           ) : (
