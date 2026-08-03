@@ -1,0 +1,6 @@
+{
+  "name": "25th Birthday Celebration",
+  "description": "An aesthetic pastel 25th birthday website with photo galleries, countdown timer, love messages, interactive guestbook, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
